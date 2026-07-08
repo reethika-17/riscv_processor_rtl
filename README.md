@@ -43,7 +43,7 @@ rtl/
     RTL implementation of processor modules
 
 sim/
-    Firmware examples and simulation files
+    Firmware example
 ```
 
 ---
